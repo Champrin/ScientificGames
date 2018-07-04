@@ -1,5 +1,6 @@
 # ScientificGames
-ScientificGames-科学游戏
+    ScientificGames-科学游戏 PocketMine插件
+    ScientificGames - A PocketMine Plugin
 ## 放在前面的话
     Creative Commons开源许可协议
     *署名权
