@@ -2,7 +2,8 @@
     ScientificGames-科学游戏 PocketMine插件
     ScientificGames - A PocketMine Plugin
 ## 放在前面的话
-    Creative Commons开源许可协议
+
+    使用Creative Commons开源许可协议
     *署名权
          必须为原始作者署名，然后才可以修改，分发，复制。
     *保持一致
