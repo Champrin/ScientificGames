@@ -1,4 +1,6 @@
 # ScientificGames
+    This PocketMine plugin can make your server science and real.
+    The introduction is written in Chinese.
     ScientificGames-科学游戏 PocketMine插件
     ScientificGames - A PocketMine Plugin
 ## 放在前面的话
